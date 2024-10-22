@@ -35,7 +35,10 @@ CryptoTracker is a Svelte-based web application that allows users to track crypt
 
 ## Preview
 
-![CryptoTracker Preview](preview.png)
+<img width="1502" alt="image" src="https://github.com/user-attachments/assets/b1f415be-a1c5-4b78-8846-70145d95a1fb">
+
+<img width="1495" alt="image" src="https://github.com/user-attachments/assets/0ce8a999-4fc8-4ae7-a4c2-292d43e96fb6">
+
 
 ## Deployment
 
